@@ -868,10 +868,35 @@
 ## Log
 
 - 210507 Xiaoyan Created.
+
 - 210510 update.
+
 - 210926 update.
+
 - 220304 update.
+
 - 2025-03-19 transfer to `E:yxyKM\Pts`
+
 - 2025-03-20 xiaoyan added more types of ctds , and  more.形成v0.1版本，转入公众号。
+
 - 2025-03-30 xiaoyan add more info to the article to be the version 0.2.
+
 - 2025-03-21 增加海洲赛维,发布到github的awesome-CTDs.
+
+- 2025-04-01 v0.1版和v0.2版不太一样，现增加进来，待合并，另外分支从master变成了 main
+
+  ```
+  The default branch has been renamed!
+  master is now named main
+  If you have a local clone, you can update it by running the following commands.
+  
+  git branch -m master main
+  git fetch origin
+  git branch -u origin/main main
+  git remote set-head origin -a
+  ```
+
+  
+
+---
+
