@@ -900,3 +900,406 @@
 
 ---
 
+# Awesome_CTDs
+
+## 1.概述
+
+The are many CTDs used in the world to test the basic parameters of the sea. Here are the list of the Oceanographic, Hydrographic and Hydrometric Instruments.
+
+制造商集中为：SBE、RBR、JFE(ALEC)、YSI、SeaSun(SST)、Valeport（安德拉）、Saivas、KELLER；技术中心、广地调局、沈阳自动化所、中船重工710所、山仪所。
+
+## 2. CTD 制造商和印象
+
+- [Sea Bird](https://www.seabird.com/)(USA)：简称“海鸟”、”美国海鸟“、”SBE“
+
+- [RBR](https://rbr-global.com/)(Canada)：简称“RBR”、“加拿大RBR”
+
+- [AML](www.AMLoceanographic.com)(Canada)
+
+- [JFE-Alec](https://www.jfe-advantech.co.jp/eng/ocean/)(Japan)
+
+- [Idronaut](https://www.idronaut.it/)(Italy)
+
+- [Sea-Sun](https://www.sea-sun-tech.com/)(Germany)
+
+- [Valeport](https://www.valeport.co.uk/products/)(UK)：
+
+- [Aanderaa](https://www.aanderaa.com/about)( Norway)
+
+> Aanderaa Data Instruments，AADI；a branch of Xylem. 
+
+- KELLER(Switzerland)
+
+- Odom(US)
+
+- Xylem(US)
+
+- YSI(USA)
+
+- [TSK](https://tsurumi-seiki.co.jp/en/servicetag/e-expendable/)(Japan)
+
+- NKE(France)
+
+- SAIVas(Norway)
+
+- Teledyne-Ocean Science (US)：主要生产UCTD，Ocean Science被Teledyne收购。
+
+- Paroscientific(US):简称”Paros“、“派若斯”；世界顶级的压力传感器生产商，其石英谐振式压力传感器的准确度极高。
+
+  > 以下是中国国内制造商
+
+- 国家海洋技术中心[NOTC](http://www.notcsoa.org.cn/cn/index/show/3043)(China)：研究CTD、生产CTD的顶级机构。
+
+- 杭州浅海科技有限责任公司：
+
+- 杭州海询/谱海：
+
+- 无锡市海鹰加科海洋技术有限责任公司：主要生产声速仪，绝对法。也有压力传感器。
+
+- 青岛道万科技有限公司
+
+- 北京麦润海通科技有限公司
+
+- 湖南国天
+
+- 山东科学院仪器仪表研究所
+
+- 中国科学院南海海洋研究所
+
+- 中国科学院深海科学与工程研究所
+
+- 广州海洋地质调查局
+
+- 华北电力大学（保定）
+
+- 山东大学
+
+- 中科院半导体所
+
+- 吉林大学
+
+- 中北大学
+
+  
+
+## 3.主要厂家的CTD主要型号
+
+### 3.1 SBE海鸟主要型号
+
+- [剖面类](https://www.seabird.com/profiling/family?productCategoryId=54627473767): [SBE 911plus CTD](https://www.seabird.com/profiling/sbe-911plus-ctd/family?productCategoryId=54627473769),[SBE 19plus V2 Profiler CTD](https://www.seabird.com/profiling/sbe-19plus-v2-seacat-profiler-ctd/family?productCategoryId=54627473770),[SBE 25plus CTD](https://www.seabird.com/profiling/sbe-25plus-sealogger-ctd/family?productCategoryId=54627473768),[SBE 41/41CP Argo CTD](https://www.seabird.com/profiling/argo-ctd-sbe-41-41cp/family?productCategoryId=54627870408&brParentId=54627473767),[SBE 49 FastCAT CTD](https://www.seabird.com/profiling/sbe-49-fastcat-ctd-sensor/family?productCategoryId=54627473793&brParentId=54627473767),[SBE 61 Argo CTD](https://www.seabird.com/profiling/sbe-61-deep-argo-ctd/family?productCategoryId=54627870409&brParentId=54627473767)
+
+- [锚系类](https://www.seabird.com/moored/family?productCategoryId=54627473771)：[SBE 16plus V2 SeaCAT](https://www.seabird.com/moored/sbe-16plus-v2-seacat-ct-d/family?productCategoryId=54627473773)，[SBE 16plus-IM V2 CT(D)](https://www.seabird.com/moored/sbe-16plus-im-v2-seacat-ct-d/family?productCategoryId=54627473784)，[SBE 37-IM, IMP, IMP-ODO](https://www.seabird.com/moored/sbe-37-microcat/family?productCategoryId=54627473772)，[SBE 37-SI and SIP](https://www.seabird.com/moored/sbe-37-si-and-sip-microcat/family?productCategoryId=54627473785)，[SBE 37 MicroCAT](https://www.seabird.com/moored/sbe-37-microcat/family?productCategoryId=54627473786)，[SBE 39plus Temperature (Depth)](https://www.seabird.com/moored/sbe-39plus-temperature-depth-recorder/family?productCategoryId=54627473774)，[SBE 39plus-IM Temperature (Depth)](https://www.seabird.com/moored/sbe-39plus-im-temperature-depth-recorder/family?productCategoryId=54627473775)，[HydroCAT CTD, DO](https://www.seabird.com/moored/hydrocat-conductivity-temperature-depth-and-optical-dissolved-oxygen/family?productCategoryId=54627473776)，[HydroCAT-EP V2 CTD](https://www.seabird.com/moored/hydrocat-ep-v2/family?productCategoryId=62331495701)
+
+- [可用于移动平台类](https://www.seabird.com/moving-platform/family?productCategoryId=54627473787)：[SBE 41/41CP Argo CTD](https://www.seabird.com/moving-platform/argo-ctd-sbe-41-41cp/family?productCategoryId=54627870408&brParentId=54627473787)，[SBE 49 FastCAT CTD](https://www.seabird.com/moving-platform/sbe-49-fastcat-ctd-sensor/family?productCategoryId=54627473793&brParentId=54627473787)，[SBE 50 Digital Ocean Pressure](https://www.seabird.com/moving-platform/sbe-50-digital-oceanographic-pressure-sensor/family?productCategoryId=54627473794)，[SBE 52-MP Moored Profiler](https://www.seabird.com/moving-platform/sbe-52-mp-moored-profiler-ctd-optional-do-sensor/family?productCategoryId=54627473795&brParentId=54627473787)，[SBE 61 Argo CTD](https://www.seabird.com/moving-platform/sbe-61-deep-argo-ctd/family?productCategoryId=54627870409&brParentId=54627473787)，[Glider Payload CTD](https://www.seabird.com/moving-platform/glider-payload-ctd-gpctd/family?productCategoryId=54627473789&brParentId=54627473787)
+
+- 新型号：待补充。
+
+- 另一种分类：[911-917plus](https://www.laureltechnologies.com/zh-hant/products/sbe-911-plus%e7%9b%b4%e8%af%bb%e5%bc%8f%e6%b8%a9%e7%9b%90%e6%b7%b1%e5%89%96%e9%9d%a2%e4%bb%aa-2/)；[25plus](https://www.laureltechnologies.com/zh-hant/products/sbe-25plus-sealogger-ctd-%e6%b8%a9%e7%9b%90%e6%b7%b1%e5%89%96%e9%9d%a2%e4%bb%aa/)/SBE25；[SBE19plus V2](https://www.laureltechnologies.com/zh-hant/products/sbe-19plus-v2-seacat%e6%b8%a9%e7%9b%90%e6%b7%b1%e5%89%96%e9%9d%a2%e4%bb%aa/)；[SBE16plus V2压阻]([https://www.laureltechnologies.com/zh-hant/products/sbe-16plus-v2-seacat%e6%b8%a9%e7%9b%90%ef%bc%88%e6%b7%b1%ef%bc%89%e8%ae%b0%e5%bd%95%e4%bb%aa/](https://www.laureltechnologies.com/zh-hant/products/sbe-16plus-v2-seacat温盐（深）记录仪/))/[16plus V2谐振]([https://www.laureltechnologies.com/zh-hant/products/sbe-16plus-v2-seacat%e6%b8%a9%e7%9b%90%ef%bc%88%e6%b7%b1%ef%bc%89%e8%ae%b0%e5%bd%95%e4%bb%aa/](https://www.laureltechnologies.com/zh-hant/products/sbe-16plus-v2-seacat温盐（深）记录仪/))；HydroCAT-EP；WQM；[SBE37]((https://www.laureltechnologies.com/zh-hant/products/sbe37-microcat系列超小型温盐（深）记录仪/))系列；  [SBE39plus](https://www.laureltechnologies.com/zh-hant/products/sbe-39-plus%e6%b8%a9%e7%9b%90%e6%b7%b1%e4%bc%a0%e6%84%9f%e5%99%a8/)；  [GPCTD](https://www.seabird.com/quick.search-download.search.jsa?keywords=GPCTD)；SBE 41/41CP(Argo)；SBE61(Deep Argo)；[SBE49]([https://www.laureltechnologies.com/zh-hant/products/sbe49-fastcat%e5%bf%ab%e9%80%9f%e6%b8%a9%e7%9b%90%e6%b7%b1%e4%bc%a0%e6%84%9f%e5%99%a8/](https://www.laureltechnologies.com/zh-hant/products/sbe49-fastcat快速温盐深传感器/))；52MP
+
+  > SBE的产品主要集中在19种：SBE37/SI、SBE56、SBE41、SBE19（Plus）、SBE39、SBE911、SBE917、SBE25（Plus）、WQM、SBE37IM、TD0820、SBE49、GPCTD、SBE21、OS304、SBE37TC、SBE20Plus、SBE16、SBE50。
+  >
+  > SBE19类对于SBE 的19中型号的仪器来说，又可以分为以下几大类：SBE37类对SBE37来说，又可以分为：SBE37SI、37SIP（泵P）SBE37IMSBE37SM、37SMP（泵P）SBE37TCSBE56对于SBE56，只有温度，作为温度链，通常为自容。
+  >
+  > SBE41对于SBE41，是大型仪器。温度盐度压力都有。
+  >
+  > SBE19(Plus)对于SBE19（Plus）：SBE19是老款的 CTD，海鸟的前几代产品，现在基本被 SBE19Plus 取代。
+  >
+  > SBE39：对于SBE39，主要是 T，作为温度链，通常为自容。也有部分做有压力，例如 6244 、6245、6247（2km）
+  >
+  > SBE9类对于SBE9来说：可以分为 SBE911和 SBE917两种变体（其实是一个）。其中9是电路板和中央处理器，11是甲板单元，17电池仓和存储器；911是直读式的，917是自容式的。SBE911SBE917SBE25(Plus)对于SBE25和 SBE25Plus，这俩区别有点大。软件用的不太一样。WQMSBE49对于SBE49，一般为小型，一般放在浮标上。
+
+  海鸟常见型号2：
+
+  > SBE16系列：SBE 16plus、16plus-IM、16plus V2和16plus-IM V2 SeaCAT
+  > SBE19系列：SBE 19plus和19plus V2 SeaCAT Profiler【剖面】 
+  > SBE25系列：SBE 25 Sealogger CTD
+  > SBE25plus系列:SBE 25plus Sealogger CTD【剖面】
+  > SBE37系列：SBE 37 MicroCAT(IM,IMP,IMP-IDO,IMP-ODO,SM,SMP,SMP-IDO,SMP-ODO,SI,SIP,SIP-IDO)
+  > SBE39系列：SBE 39和39-IM、SBE 39plus 
+  > SBE49系列：SBE 49 FastCAT CTD【剖面】
+  > SBE5系列：SBE 52-MP和SBE 50
+  > SBE9系列：SBE 911/917plus CTD【剖面】
+  > SBE41系列：Argo CTD (SBE 41/41CP)
+  > SBE61系列：SBE 61 Deep Argo CTD
+  > slocum系列：
+  > Hydrocat系列：
+  > HTI系列：
+  > HC-SMP系列：
+
+### 3.2 RBR主要型号
+
+- 标准记录器：可以集成 1 到 10 个通道，包括第三方传感器
+
+  - [RBR*virtuoso³* 和 RBR*duo³* 单通道和双通道记录仪](https://rbr-global.com/products/standard-loggers/rbrvirtuoso-rbrduo/)；[RBR*virtuoso³* T 和 RBR*duo³* T.D 潮汐和波浪记录仪](https://rbr-global.com/products/standard-loggers/standard-tide-wave/)
+  - [RBR*brevio³* C.T.D logger](https://rbr-global.com/products/standard-loggers/rbrbrevio/)
+  - [RBR*duo³* C.T and RBR*concerto³* C.T.D multi-channel loggers](https://rbr-global.com/products/standard-loggers/rbrduo-ct/)
+  - [RBR*duo³* C.T | uv & RBR*concerto³* C.T.D | uv](https://rbr-global.com/products/standard-loggers/rbrduo-ct-uv/)
+  - [RBR*maestro³* C.T.D multi-channel logger](https://rbr-global.com/products/standard-loggers/rbrmaestro/)
+  - [RBR*quartz³* APT bottom pressure recorder](https://rbr-global.com/products/standard-loggers/rbrquartz-apt/)
+  - [RBR*quartz³* BPR bottom pressure recorder](https://rbr-global.com/products/standard-loggers/rbrquartz-bpr/)
+  - [RBR*quartz³* BPR|zero bottom pressure recorder](https://rbr-global.com/products/standard-loggers/rbrquartz-bpr-zero/)
+  - [RBR*quartz³* Q tide and wave recorder](https://rbr-global.com/products/standard-loggers/rbrquartz-q/)
+  - [RBR*quartz³* Q|plus tide and wave recorder](https://rbr-global.com/products/standard-loggers/rbrquartz-q-plus/)
+  - [RBR*virtuoso³* T and RBR*duo³* T.D tide and wave loggers](https://rbr-global.com/products/standard-loggers/standard-tide-wave/)
+  - [RBR*quartz³* Q tide and wave recorder](https://rbr-global.com/products/standard-loggers/rbrquartz-q/)
+  - [RBR*concerto³* Tx thermistor string](https://rbr-global.com/products/standard-loggers/thermistor-strings/)
+
+- 紧凑型：
+
+  - [RBR*solo³* T compact temperature logger](https://rbr-global.com/products/compact-loggers/rbrsolo-t-2/)
+  - [RBR*solo³* D compact depth logger](https://rbr-global.com/products/compact-loggers/rbrsolo-d/)
+  - [RBR*duet³* T.D compact temperature and depth loggers](https://rbr-global.com/products/compact-loggers/rbrduet-td/)
+  - [RBR*solo³* D and RBR*duet³* T.D compact tide and wave loggers](https://rbr-global.com/products/compact-loggers/compact-tide-wave/)
+  - [RBR*duet³* T.ODO compact temperature and oxygen logger](https://rbr-global.com/products/compact-loggers/rbrduet-t-odo/)
+  - [RBR*solo³* PAR and RBR*solo³* rad compact PAR and narrow-band loggers](https://rbr-global.com/products/compact-loggers/rbrsolo-par-rad/)
+  - [RBR*solo³* DO, Tu, and PAR compact single channel loggers](https://rbr-global.com/products/compact-loggers/rbrsolo-do-tu-par/)
+  - [RBR*solo³* T|deep and RBR*duet³* T.D|deep compact deepwater loggers](https://rbr-global.com/products/compact-loggers/deepwater-loggers/)
+
+- RBR 市场常见：
+
+  ```
+  >RBR 的产品主要集中在9种：
+  - RBRduoTD
+  - RBR-TGR/TDR/TWR
+  - RBRduetT.D
+  - RBR-XR-620
+  - RBRconcerto
+  - RBRsoloT
+  - RBRsoloD
+  - RBR-TGR-1050
+  - RBR-XRX-620
+  - RBRvirtuoso
+  ```
+
+  
+
+### 3.3 OST主要型号(ONTC)
+
+> 国家海洋技术中心主要是OST系列，另有其他型号待补充。
+
+| 型号 | 备注1 | 备注2 |
+| ---- | ----- | ----- |
+| 15D  |       |       |
+| 15M  |       |       |
+| 19   |       |       |
+| 27   |       |       |
+| 30D  |       |       |
+| 30M  |       |       |
+| 31D  |       |       |
+| 31M  |       |       |
+| 32D  |       |       |
+| 32M  |       |       |
+| 33D  |       |       |
+| 33M  |       |       |
+| 34D  |       |       |
+| 34M  |       |       |
+| 35D  |       |       |
+| 35M  |       |       |
+| 36D  |       |       |
+| 36M  |       |       |
+| 41   |       |       |
+| 42   |       |       |
+| 43   |       |       |
+| 44U  |       |       |
+| 44G  |       |       |
+| 71   |       |       |
+| 72   |       |       |
+| 73   |       |       |
+| 35M  |       |       |
+
+> 技术中心的产品前期5种：YZY4-3、SZC(F or P)、LC-PT400、WR-2050、CSS3
+
+- 常见：OST19、OST27、SZC15-5、SXF4-1、SZF4-1等
+
+### 3.4 SeaSun公司的SST系列
+
+- 标准型号
+
+  - [Multiparameter Probe CTD 48](https://www.sea-sun-tech.com/product/multiparameter-probe-ctd-48/), detail: [SeaandSun_CTD48-datasheet.pdf](https://www.sea-sun-tech.com/wp-content/uploads/2018/10/SeaandSun_CTD48-datasheet.pdf)
+
+
+    - [Multiparameter Probe CTD 48M](https://www.sea-sun-tech.com/product/multiparameter-probe-ctd-48m/)
+
+
+    - [Multiparameter Probe CTD 48Mc](https://www.sea-sun-tech.com/product/multiparameter-probe-ctd48-mc/)
+
+
+    - [Multiparameter Probe CTD 60Mc](https://www.sea-sun-tech.com/product/multiparameter-probe-ctd-60-memory/)
+
+    - [Multiparameter Probe CTD 75M](https://www.sea-sun-tech.com/product/multiparameter-probe-ctd-75/)
+
+  
+
+    -  [Multiparameter Probe CTD 90](https://www.sea-sun-tech.com/product/multiparameter-probe-ctd-90/)
+
+  
+
+    -  [Multiparameter Probe CTD 90M](https://www.sea-sun-tech.com/product/multiparameter-probe-ctd-90-memory/)
+
+  
+
+    -  [Multiparameter Probe CTD 115M](https://www.sea-sun-tech.com/product/multiparameter-probe-ctd-115-memory/)
+
+
+- 微观结构测量系统：([SST_datasheet_MSS-Family-v1.2_opt.pdf](https://www.sea-sun-tech.com/wp-content/uploads/2019/05/SST_datasheet_MSS-Family-v1.2_opt.pdf))
+
+  - MSS60: Light profiler for coastal waters, lakes and rivers 
+
+  - MSS90: Easy to handle profiler for ocean measurements from small ships
+
+  - MSS90L: Our “work horse” for measurements down to 500 m (optional 1000 m) 
+
+  - MSS90LH: Heavy version of the MSS90L with lower profiler vibration level
+
+  - MSS90D: Profiler for measurements down to 1000 m, cable length up to 1500 m  
+
+  - MSS90DH: Heavy version of the MSS90D with lower profiler vibration level 
+
+  - MSS90DM: Profiler for measurements down to 2000 m with memory, cable length up to 3000 m  
+
+  - MSS90DMH: Heavy version of the MSS90DM with lower profiler vibration level
+
+- SST常见型号：
+
+  > 德国SeaSun公司:48M、90M
+
+- 常见分类链接：[CTD 48](https://www.sea-sun-tech.com/product/multiparameter-probe-ctd-48/)，[CTD 48M](https://www.sea-sun-tech.com/product/multiparameter-probe-ctd-48-memory/)，[CTD 48 Mc](https://www.sea-sun-tech.com/product/multiparameter-probe-ctd48-mc/)，[CTD 60Mc](https://www.sea-sun-tech.com/product/multiparameter-probe-ctd-60-memory/)，[CTD 75M](https://www.sea-sun-tech.com/product/multiparameter-probe-ctd-75/)，[CTD 90](https://www.sea-sun-tech.com/product/multiparameter-probe-ctd-90/)，[CTD 90M](https://www.sea-sun-tech.com/product/multiparameter-probe-ctd-90-memory/)，[CTD 115](https://www.sea-sun-tech.com/product/multiparameter-probe-ctd-115/)，[CTD 115M](https://www.sea-sun-tech.com/product/multiparameter-probe-ctd-115-memory/)
+
+### 3.5 意大利 Idronaut
+
+- [Environmental CTDs](https://www.idronaut.it/multiparameter-ctds/environmental-ctds/)
+
+  - Ocean Seven 310 Multiparameter CTD [Learn more](https://www.idronaut.it/multiparameter-ctds/environmental-ctds/os310-environmental-ctds/)： Low Power Self Recording and Profiling 28Hz Multi-Parameter CTD.
+
+  - Ocean Seven 316S[Learn more](https://www.idronaut.it/multiparameter-ctds/environmental-ctds/os316s/)：28hz Workhorse Multi-parameter CTD Profiler And Self-recording. Most Sold More Than 1000 Units All Over The World.
+
+
+  - Ocean Seven 308 CTD Logger [Learn more](https://www.idronaut.it/multiparameter-ctds/environmental-ctds/os308-environmental-ctds/)： Very low power, Self-recording, UV-Antifouling, Arctic, Antarctica, Brine, Moorings, ROVs, AUVs
+
+  - Ocean Seven 28 Micro CTD [Learn more](https://www.idronaut.it/multiparameter-ctds/environmental-ctds/os28/)： VERY SMALL DIAMETER AND ACCURATE CTD UP TO 28Hz
+
+- [Oceanographic CTDs](https://www.idronaut.it/multiparameter-ctds/oceanographic-ctds/)
+
+  - Ocean Seven 320Plus [Learn more](https://www.idronaut.it/multiparameter-ctds/oceanographic-ctds/os320plus-oceanographic-ctd/)：WOCE 40HZ, FULL-OCEAN MULTI-PARAMETER CTD FOR OCEANOGRAPHY
+  - Ocean Seven 316S [Learn more](https://www.idronaut.it/multiparameter-ctds/oceanographic-ctds/os316s/)：28hz Workhorse Multi-parameter CTD Profiler And Self-recording. Most Sold More Than 1000 Units All Over The World.
+  - Ocean Seven 308 CTD Logger [Learn more](https://www.idronaut.it/multiparameter-ctds/oceanographic-ctds/os308-oceanographic-ctd/)：Very low power, Self-recording, UV-Antifouling, Arctic, Antarctica, Brine, Moorings, ROVs, AUVs
+  - Ocean Seven 306 pH and Redox Probe [Learn more](https://www.idronaut.it/multiparameter-ctds/oceanographic-ctds/os306-oceanographic-ctd/)：Full Ocean Analogue Ph And Redox Probe.
+
+- [On-Line Modules](https://www.idronaut.it/multiparameter-ctds/on-line-modules/)
+
+  - Ocean Seven 314 On-Line Module  [Learn more ](https://www.idronaut.it/multiparameter-ctds/on-line-modules/os314-on-line-module/)：On-Board Multi-Parameter On-line Module, Thermo-Salinograph, Ferrybox.
+
+- [Borehole CTDs](https://www.idronaut.it/multiparameter-ctds/borehole-ctds/)
+
+- [Advanced Tools](https://www.idronaut.it/multiparameter-ctds/advanced-tools/)
+
+- 常见型号:OCEAN SEVEN 304等系列。
+
+### 3.6 青岛道万
+
+- [DW16系列温盐深仪](http://www.daowantech.cn/index.php/product/167)
+- [DW15系列温盐仪](http://www.daowantech.cn/index.php/product/168)
+- [DW14系列温深仪](http://www.daowantech.cn/index.php/product/169)
+- [DW12系列温度仪](http://www.daowantech.cn/index.php/product/170)
+- [DW11系列深度仪](http://www.daowantech.cn/index.php/product/171)
+- [DW10系列配件](http://www.daowantech.cn/index.php/product/172)
+- [水质多参数传感器](http://www.daowantech.cn/index.php/product/177)
+
+- 常见：DW1633F、DW1616-D
+
+### 3.7 杭州海询
+
+- OceanPlot CTD-IM
+
+- OceanPlot TD-IM
+- OceanPlot CTD-DR
+- OceanPlot ODR
+
+### 3.8 AML
+
+- 常见型号：AML MINO-X、MVP300、MVPX
+
+- [AML-6 RT CTD+SV 等](https://amloceanographic.com/catalogsearch/result/index/?cat=93%29&p=2&q=Pressure) 
+
+  
+
+### 3.9 日本JFE(ALEC)
+
+> 亚力克的主要产品集中为8大类：
+
+- A7CT-USB
+
+- ALEC/ATD-HG
+
+- ASTD687/102/103
+
+- ACTW-CAR
+
+- AWH-USB
+
+- AROW2(3)-USB(CAR)
+
+- AAQ1183
+
+- AAQ171
+
+- 常见：ATD-HG、ACLW2-USB
+
+### 3.10 Teledyne-Ocean Science 
+
+- [UCTD](http://www.teledynemarine.com/Documents/Brand Support/OCEANSCIENCE/Technical Resources/Manuals and Guides/Underway Profiling System (UCTD)/UCTD Guide_Jul18.pdf)
+
+### 3.21 广州地调局
+
+>广州地调局产品主要集中在2种：
+
+- FY-1
+
+- ZY-1
+
+
+
+
+
+## 4.主要型号CTD操作注意事项（Private）
+
+- 
+
+## 5.ONQI
+
+> Ocean National Quality Infrastructure:
+
+### 6.1 [WHOI](https://www.whoi.edu/science/PO/ctd/ctdcal1.html)(USA)
+
+### 6.2 [NCOSM](https://www.ncosm.org.cn)(China)
+
+### 6.3 [CSIRO](https://www.csiro.au/)(Australia)
+
+### 6.4 [JAMSTEC ](https://www.jamstec.go.jp/j/)(Japan)
+
+### 6.5 [OSIL](https://osil.com/product/calibration/)(UK)
+
+
+
+## Ref
+
+- [NOAA:Depth calculation for the CTD data files](https://www.nodc.noaa.gov/archive/arc0022/0001155/1.1/data/0-data/docs/common/depthCTD-calculated.htm)
+- [Multiparameter probe CTD 48M](https://www.sea-sun-tech.com/product/multiparameter-probe-ctd-48-memory/#detail)
+- [Sea Water Density According to UNESCO Formula](https://link.springer.com/content/pdf/bbm%3A978-3-319-18908-6%2F1.pdf)
+- [ctd-methods](https://calcofi.org/about-calcofi/methods/119-ctd-methods.html)
+- [UNESCO Pressure to Depth](https://www.navlab.net/Publications/From_Pressure_to_Depth_-_Estimation_of_underwater_vertical_position.pdf)
+- [google: CTD formula UNESCO](https://www.google.com/search?q=UNESCO+formulae+CTD&newwindow=1&safe=strict&sxsrf=ALeKk011VhZo7GQW26tHxEuH5vPLO-8Xtg%3A1620618634954&ei=iq2YYJ70ONbT-wSRyKWoCg&oq=UNESCO+formulae+CTD&gs_lcp=Cgdnd3Mtd2l6EANQ3owUWN6MFGCpnBRoAHAAeACAAY8CiAHwA5IBAzItMpgBAKABAqABAaoBB2d3cy13aXrAAQE&sclient=gws-wiz&ved=0ahUKEwie4bTwmr7wAhXW6Z4KHRFkCaUQ4dUDCA8&uact=5)
+- [Seabird Third Party Equipment](https://www.seabird.com/products/third-party-equipment)
+- [RBR](https://rbr-global.com/)
+- https://www.seabird.com/model-number-list
+
+## Log
+
+- 210507 Xiaoyan Created.
+- 210510 update.
+- 210926 update.
+- 220304 update.
+- 2025-03-19 transfer to `E:\iyuxiaoyan\yxyKM\Pts`
+- 2025-03-20 xiaoyan added more types of ctds , and  more.
+- 250401 merge with v0.2
+
